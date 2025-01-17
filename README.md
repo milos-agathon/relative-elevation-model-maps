@@ -13,4 +13,9 @@ Perfect for anyone passionate about geospatial data and looking to bring their v
 
 Using this repo you will be able to make a 2D relative elevation map of the extent of Snake River in Wyoming.
 
+![alt text](https://github.com/milos-agathon/relative-elevation-model-maps/blob/main/img/snake-river-rem-mako.png?raw=true)
+
 As well as a 3D version for the same area.
+
+![alt text](https://github.com/milos-agathon/relative-elevation-model-maps/blob/main/img/3d-snake-river.png?raw=true)
+
