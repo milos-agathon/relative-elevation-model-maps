@@ -10,3 +10,7 @@ Using tools like **ggplot2**, **rayshader**, and the R programming language, you
 - Enhance your spatial analysis skills while discovering practical GIS applications.  
 
 Perfect for anyone passionate about geospatial data and looking to bring their visualizations to life. 
+
+Using this repo you will be able to make a 2D relative elevation map of the extent of Snake River in Wyoming.
+
+As well as a 3D version for the same area.
